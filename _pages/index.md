@@ -8,7 +8,7 @@ permalink: /
 
 # 1.ラビットタンク. 
 ## ラビット由来の高い俊敏性とタンク由来の重装甲を兼ね備えた使い勝手の良いベストマッチフォームである。  
-![image](Eborudo/Kamen-Rider-Build/assets/images/RB.png). 
+![image](Eborudo/Kamen-Rider-Build/assets/images/RB.png)
 
 # 2.ラビットタンクスパークリング. 
 ## 赤白青の３色のアーマーで防御性能が強化されており、  
